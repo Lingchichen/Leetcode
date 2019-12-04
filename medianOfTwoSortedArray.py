@@ -19,3 +19,5 @@ nums2 = [3, 4]
 
 The median is (2 + 3)/2 = 2.5
 """
+def median(nums1,nums2):
+    pass
